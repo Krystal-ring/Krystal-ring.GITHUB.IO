@@ -1,7 +1,7 @@
 User-agent: *
-Disallow:/A/
-Disallow:/B/
-Disallow:/C/
-Disallow:/1.jpg
+Disallow: /A/
+Disallow: /B/
+Disallow: /C/
+Disallow: /1.jpg
 
-Sitemap:http://ABC.com/sitemap.xml
+Sitemap: http://ABC.com/sitemap.xml
